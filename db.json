@@ -1,6 +1,7 @@
 {
   "clubs": [
     {
+      "id" : 1,
       "nom": "Montpellier Hérault Sport Club",
       "surnom": "MHSC",
       "classement": 8,
@@ -92,6 +93,7 @@
       "nombreMatchsMoinsImportantsPerdusExtérieur" : 3
     },
     {
+      "id" : 2,
       "nom": "FC Girondins de Bordeaux",
       "surnom": "FCGB",
       "classement": 14,
